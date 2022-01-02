@@ -1,3 +1,6 @@
+# joinmatrix-nl
+A site in Dutch about why you should join the matrix network
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/subbink/joinmatrix-nl/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
