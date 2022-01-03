@@ -1,6 +1,5 @@
 ---
 title: De handleiding voor het Matrix netwerk
-guide_url: ./
 ---
 ## De "Verbind met Matrix!" handleding: De basis
 
